@@ -1,4 +1,4 @@
-# CometChat Partners Page
+# CometChat Partners Page (Concept UI)
 
 A modern, responsive landing page for CometChat's Partner Program built with React, Vite, and Tailwind CSS. This project showcases CometChat's partner opportunities and provides a platform for potential partners to learn about and apply to various partnership programs.
 
